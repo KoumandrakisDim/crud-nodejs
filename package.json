@@ -1,0 +1,27 @@
+{
+  "name": "crud",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KoumandrakisDim/crud-nodejs.git"
+  },
+  "author": "Koumandrakis Dimitrios",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KoumandrakisDim/crud-nodejs/issues"
+  },
+  "homepage": "https://github.com/KoumandrakisDim/crud-nodejs#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "express": "^4.19.2",
+    "express-validator": "^7.0.1",
+    "sequelize": "^6.37.1",
+    "sequelize-cli": "^6.6.2",
+    "sqlite3": "^5.1.7"
+  }
+}
